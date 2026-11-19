@@ -54,5 +54,3 @@ Some dashboards create from the data from data read storage
 ### AWS
 - Set up EMR for Spark
 - Track the resource utilization in EMR
-# Data_Engineering -->
-# Data_Engineering
